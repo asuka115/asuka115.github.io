@@ -348,6 +348,10 @@ section .container,
     background-color: #f57c00;
 }
 
+#contact{
+    clear:left;
+}
+
 #contact ul
 {
     margin-top: 60px;
